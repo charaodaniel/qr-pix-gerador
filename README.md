@@ -1,0 +1,1 @@
+# qr-pix-gerador
